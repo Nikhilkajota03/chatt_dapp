@@ -1,13 +1,25 @@
-# Sample Hardhat Project
+# Setting Up Environment and Deploying Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This guide will walk you through setting up your local development environment, deploying a smart contract using Hardhat, and verifying the contract on the Sepolia network.
 
-Try running some of the following tasks:
+## Prerequisites
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
+Before you begin, ensure you have the following:
+
+- Node.js (>= 14.x)
+- npm (>= 6.x)
+- Hardhat installed globally (`npm install -g hardhat`)
+- An Alchemy account for an RPC URL
+- (Optional) An Etherscan API key for contract verification
+
+## Setup Local Development Environment
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
+   cd yourrepository
+
+
+
 ```
