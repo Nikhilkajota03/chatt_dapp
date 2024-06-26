@@ -78,9 +78,13 @@ Before you begin, ensure you have the following:
   (the account that will deploy the smart contract will be the owner or admin  of the contract)
 
 
-8. **go to server folder**
+9. **go to server folder**
 
   Run the command npm install and then run nodemon app.js
+
+10. **ABI**
+
+  Paste the abi code in controller
 
 
 ## APIs
