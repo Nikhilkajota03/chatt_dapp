@@ -1,6 +1,6 @@
-please rearrange it # Setting Up Environment and Deploying Smart Contract
 
-This guide will walk you through setting up your local development environment, deploying a smart contract using Hardhat, and verifying the contract on the Sepolia network.
+
+## This guide will walk you through setting up your local development environment, deploying a smart contract using Hardhat, and verifying the contract on the Sepolia network.
 
 ## Prerequisites
 
