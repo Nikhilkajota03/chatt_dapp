@@ -4,7 +4,7 @@
 
 
 ## Postman collection :-
-https://drive.google.com/file/d/1DPYTgep6Bf8DLI-9O1kRnRTQnkzo4NAr/view?usp=sharing
+https://drive.google.com/file/d/1oHLY54anT5Rz81ShbrrzK0BbhRDJbvcO/view?usp=sharing
 
 ## Live working video :- 
 https://drive.google.com/file/d/1cvHYEs9I6rqp87eohNaNejXD-1fw_uVs/view?usp=sharing
