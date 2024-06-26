@@ -60,6 +60,21 @@ Before you begin, ensure you have the following:
 
  
   npx hardhat run scripts/deploy.js --network Sepolia
+
+
+
+7. **putting the value in env file::**
+
+ 
+  put the value of deployed smart contract in env file
+  put the wallet  private key which will deploy the smart contract in env file 
+  (the account that will deploy the smart contract will be the owner or admin  of the contract)
   
+
+
+
+
+
+
 
   
