@@ -1,6 +1,8 @@
 
 
 ## This guide will walk you through setting up your local development environment, deploying a smart contract using Hardhat, and verifying the contract on the Sepolia network.
+## Postman collection :- https://drive.google.com/file/d/1DPYTgep6Bf8DLI-9O1kRnRTQnkzo4NAr/view?usp=sharing
+## Live working video :- https://drive.google.com/file/d/1cvHYEs9I6rqp87eohNaNejXD-1fw_uVs/view?usp=sharing
 
 ## Prerequisites
 
