@@ -82,7 +82,10 @@ Before you begin, ensure you have the following:
 
   Run the command npm install and then run nodemon app.js
 
+
 ## APIs
+
+
 
 
 Postman collection access json data  : https://drive.google.com/file/d/1DPYTgep6Bf8DLI-9O1kRnRTQnkzo4NAr/view?usp=sharing
@@ -92,15 +95,15 @@ Postman collection access json data  : https://drive.google.com/file/d/1DPYTgep6
 
 1. Api For getting The message:
 
-   ```bash
+  
    GET    http://localhost:3000/api/v1/getMessage
-   ```
+ 
 
 2. Api For Setting the Message :
 
-   ```bash
+  
    POST   http://localhost:3000/api/v1/message
-   ```
+
 
 
 
