@@ -82,21 +82,6 @@ Before you begin, ensure you have the following:
 
   Run the command npm install and then run nodemon app.js
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## APIs
 
 
