@@ -17,10 +17,10 @@ Before you begin, ensure you have the following:
 1. **Clone the repository:**
 
   ```bash
-  git clone https://github.com/yourusername/yourrepository.git
+  git clone https://github.com/Nikhilkajota03/chatt_dapp
   cd yourrepository
 
-1. **Clone the repository:**
+2. **Clone the repository:**
 
   ```bash
   git clone https://github.com/yourusername/yourrepository.git
@@ -32,40 +32,35 @@ Before you begin, ensure you have the following:
    npm install
 
 
-  1. **Set up environment variables::**
+  2. **Set up environment variables::**
      create a .env file in the root directory of your project and add the following variables:
 
   ```bash
-   PRIVATE_KEY=ca79776cf9943f1f65f84896683f7773c5c7a8c540d5ebe6fdd5a574dede6f89
-   RPC_URL=https://arb-sepolia.g.alchemy.com/v2/RtF9vLf5K7Rj_MKXoLx1EhAa4Cc3rq5N
-   CONTRACT_ADDRESS=0xD6f062d15D2c96FAFD6A49eeaA4155a2F4073225
-   ETHERSCAN_API_KEY=CK6HWBISE55AIECH1MCQX8FK3NTY3CGN15
+   PRIVATE_KEY=Your Private Key 
+   RPC_URL=Your RPC_UR
+   CONTRACT_ADDRESS=  Your CONTRACT_ADDRESS
+   ETHERSCAN_API_KEY= Your ETHERSCAN_API_KEY
 
-  1. **Install Dependencies**
+  3. **Install Dependencies**
 
   ```bash
   npm install
-  cd yourrepository
 
-  1. **Deploy Smart Contract:**
+ 4. **Deploy Smart Contract:**
 
   ```bash
   npx hardhat compile
 
-  1. **Clone the repository:**
+  5. **Clone the repository:**
 
   ```bash
   git clone https://github.com/yourusername/yourrepository.git
   cd yourrepository
 
-  1. **Deploy the smart contract::**
+  6. **Deploy the smart contract::**
 
   ```bash
   npx hardhat run scripts/deploy.js --network Sepolia
-  cd yourrepository
+  
 
-  1. **Clone the repository:**
-
-  ```bash
-  git clone https://github.com/yourusername/yourrepository.git
-  cd yourrepository
+  
